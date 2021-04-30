@@ -1,0 +1,20 @@
+/*Css template*/
+
+.header, .hero, .body, .bar, .footer{
+	background-color: #218380;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	min-height: 100px;
+	background-color: #C70039;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
+.red{
+	background-color: #5cdb5c;
+}
+.five{
+	background-color: #0496FF;
+}
