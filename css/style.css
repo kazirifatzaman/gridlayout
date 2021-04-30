@@ -1,13 +1,13 @@
 /*Css template*/
 
 .header, .hero, .body, .bar, .footer{
-	background-color: #218380;
+	background-color: #184A45FF;
 	margin-bottom: 10px;
 }
 .box{
 	margin: 10px 0;
 	min-height: 100px;
-	background-color: #C70039;
+	background-color: #FF5733;
 	font-size: 30px;
 	text-align: center;
 	color: white;
