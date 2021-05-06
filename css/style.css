@@ -2,7 +2,6 @@
 
 .header, .hero, .body, .bar, .footer{
 	background-color: #184A45FF;
-	margin-bottom: 10px;
 }
 .box{
 	margin: 10px 0;
